@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @roja09
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning datastructure
 - 💞️ I’m looking to collaborate on developing application
 - 📫 How to reach me ...
 
